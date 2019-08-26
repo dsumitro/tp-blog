@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
+  "title": "Dean Does Developing",
   "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "I am writing about my time learning to be a Web Developer",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my time learning to be a Web Developer",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://myurl.com/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Dean Sumitro",
+    "email": "dean.sumitro.27@gmail.com"
   }
 }
