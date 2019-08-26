@@ -1,18 +1,23 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: Flow Sprint 2
+description: Short.Sweet. & To the Point.
+date: 2019-08-16
 tags:
-  - number-2
+  - Project
+  - Flow
+  - Progress
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+# Getting a little bit of the Nitty Gritty
+## Some actual code
 
-## Section Header
+### What did we do?
+We worked on enhancing and implementing some of the features we needed to have an MVP. This included getting a real-time clock, weather, and the recently closed tabs. After we got the functionality we moved towards a little bit of the layout and design and also gathering content to display on our About Us page. (images to be added soon)
 
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+### How did it go?
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The first day was mostly planning for the week. Like I mentioned above it was a lot improving and implementing the research and content that we gathered from the previous sprints.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+There were definitely a lot of speed bumps with getting the scripts for the weather and time to talk with the browser. For me, this meant first getting the script to run within the HTML file and learning how to import libraries in html files. Then after it was abstracting that out of the html and into an separate JS file.
+
+At the end of the week, we were scrambling to make sure that all of our branches and code were up to date to make sure it was cohesive and ran smoothly to present through our localhost. The presentation itself was smooth overall but the ending can be a bit smoother. It was fairly short and to the point. The demo generated a lot of good feedback and improvements we can watch out for so we will be implementing that the next coming week. 
